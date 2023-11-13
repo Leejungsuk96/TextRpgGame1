@@ -35,8 +35,8 @@
 
 }```
 
-enum을 사용하여 SartSelect 함수를 만들었다.
-enum을 return하는 연습을 하면서 익혔다.
+//enum을 사용하여 SartSelect 함수를 만들었다.
+//enum을 return하는 연습을 하면서 익혔다.
 
 
 ```public static void DisplayStatus()
@@ -69,9 +69,10 @@ enum을 return하는 연습을 하면서 익혔다.
             break;
     }
 }
-상태창을 보여주는 DisplayStatus 함수
-Status를 참고할 수 있도록
-Player 클래스를 만들었다.
+//상태창을 보여주는 DisplayStatus 함수
+//Status를 참고할 수 있도록
+//Player 클래스를 만들었다.
+
 public class Player
 {
     public string Name { get; }
@@ -152,7 +153,7 @@ public class Player
             break;
     }
 }
-인벤토리와 장착관리를 도와주는 인벤매니저를 보여주는 함수를 만들었다.
+//인벤토리와 장착관리를 도와주는 인벤매니저를 보여주는 함수를 만들었다.
 
     static void Main(string[] args)
     {
@@ -174,7 +175,8 @@ public class Player
             }
         }
     }
-메인 실행함수에서 switch문을 활용해서 무한 반복이 되도록 실행해 주었다.
+
+//메인 실행함수에서 switch문을 활용해서 무한 반복이 되도록 실행해 주었다.
 
 static List<ItemData> itemsInDatabase = new List<ItemData>();
 static void InitItemDatabase()
@@ -202,11 +204,11 @@ public class ItemData
     }
 }
 
-아이템을 만들고 관리하는 것 까지 만들었으나
-장착, 해제시 [E] 표시, Player의 상태변화 등 구현하지 못한 것이 많다.
+//아이템을 만들고 관리하는 것 까지 만들었으나
+//장착, 해제시 [E] 표시, Player의 상태변화 등 구현하지 못한 것이 많다.
 
-만들면서 개념이 헷갈리는게 너무 많아서 이것 저것 찾아보니깐 완성 속도가 늦어진 것 같지만
-개념 이해는 나름 잘된 것 같다.
+//만들면서 개념이 헷갈리는게 너무 많아서 이것 저것 찾아보니깐 완성 속도가 늦어진 것 같지만
+//개념 이해는 나름 잘된 것 같다.
 
 
 
