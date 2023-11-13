@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Unityworkspace\\TextRpgGame\\TextRpgGame\\TextRpgGame.csproj": {}
+    "D:\\Unity Project\\Unity Github\\TextRpgGame1\\TextRpgGame\\TextRpgGame\\TextRpgGame.csproj": {}
   },
   "projects": {
-    "D:\\Unityworkspace\\TextRpgGame\\TextRpgGame\\TextRpgGame.csproj": {
+    "D:\\Unity Project\\Unity Github\\TextRpgGame1\\TextRpgGame\\TextRpgGame\\TextRpgGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Unityworkspace\\TextRpgGame\\TextRpgGame\\TextRpgGame.csproj",
+        "projectUniqueName": "D:\\Unity Project\\Unity Github\\TextRpgGame1\\TextRpgGame\\TextRpgGame\\TextRpgGame.csproj",
         "projectName": "TextRpgGame",
-        "projectPath": "D:\\Unityworkspace\\TextRpgGame\\TextRpgGame\\TextRpgGame.csproj",
+        "projectPath": "D:\\Unity Project\\Unity Github\\TextRpgGame1\\TextRpgGame\\TextRpgGame\\TextRpgGame.csproj",
         "packagesPath": "C:\\Users\\이정석\\.nuget\\packages\\",
-        "outputPath": "D:\\Unityworkspace\\TextRpgGame\\TextRpgGame\\obj\\",
+        "outputPath": "D:\\Unity Project\\Unity Github\\TextRpgGame1\\TextRpgGame\\TextRpgGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\이정석\\AppData\\Roaming\\NuGet\\NuGet.Config",
