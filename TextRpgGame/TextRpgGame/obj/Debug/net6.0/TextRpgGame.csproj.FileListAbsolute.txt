@@ -1,0 +1,14 @@
+D:\Unityworkspace\TextRpgGame\TextRpgGame\bin\Debug\net6.0\TextRpgGame.exe
+D:\Unityworkspace\TextRpgGame\TextRpgGame\bin\Debug\net6.0\TextRpgGame.deps.json
+D:\Unityworkspace\TextRpgGame\TextRpgGame\bin\Debug\net6.0\TextRpgGame.runtimeconfig.json
+D:\Unityworkspace\TextRpgGame\TextRpgGame\bin\Debug\net6.0\TextRpgGame.dll
+D:\Unityworkspace\TextRpgGame\TextRpgGame\bin\Debug\net6.0\TextRpgGame.pdb
+D:\Unityworkspace\TextRpgGame\TextRpgGame\obj\Debug\net6.0\TextRpgGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unityworkspace\TextRpgGame\TextRpgGame\obj\Debug\net6.0\TextRpgGame.AssemblyInfoInputs.cache
+D:\Unityworkspace\TextRpgGame\TextRpgGame\obj\Debug\net6.0\TextRpgGame.AssemblyInfo.cs
+D:\Unityworkspace\TextRpgGame\TextRpgGame\obj\Debug\net6.0\TextRpgGame.csproj.CoreCompileInputs.cache
+D:\Unityworkspace\TextRpgGame\TextRpgGame\obj\Debug\net6.0\TextRpgGame.dll
+D:\Unityworkspace\TextRpgGame\TextRpgGame\obj\Debug\net6.0\refint\TextRpgGame.dll
+D:\Unityworkspace\TextRpgGame\TextRpgGame\obj\Debug\net6.0\TextRpgGame.pdb
+D:\Unityworkspace\TextRpgGame\TextRpgGame\obj\Debug\net6.0\TextRpgGame.genruntimeconfig.cache
+D:\Unityworkspace\TextRpgGame\TextRpgGame\obj\Debug\net6.0\ref\TextRpgGame.dll
